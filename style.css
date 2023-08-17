@@ -1,7 +1,5 @@
 body {
   background-color: #4e17cf;
-
-  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
